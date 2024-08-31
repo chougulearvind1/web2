@@ -1,0 +1,5 @@
+Navgiate bar used as per design with using bootstrap css and js .
+temprory  object created for record of sales and represnt in tables.
+I dont want use props or any other technique to show sum of revenue .
+ used function for that and exported it .
+ react dom router is used to routes

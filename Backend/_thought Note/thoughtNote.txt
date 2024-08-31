@@ -1,0 +1,5 @@
+express server created  and connected to mongoose
+create route.js file for route from them.
+in route.js file define individually path  with component js
+in AddSalesEntery we saved all records 
+login for user log,
